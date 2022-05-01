@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-iter-cumax",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Create an iterator which iteratively computes a cumulative maximum value.",
   "license": "Apache-2.0",
   "author": {
